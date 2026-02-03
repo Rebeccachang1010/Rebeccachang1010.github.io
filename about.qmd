@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+## About Me
+
+Welcome to my very first GitHub page! I am currently a second-year PhD student in Energy, Environmental, and Food Economics at Penn State University. My research interests include food marketing and food and beverage management.
